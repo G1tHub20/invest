@@ -1,0 +1,6 @@
+# どのディレクトリかを問わず、file.phpを除外
+# file-a.php
+library.php
+
+# .gitignore が置かれたディレクトリ内のfile.phpを除外
+# /file-a.php

@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+html {
+
+}
+
+body {
+	font-size: 0.9rem;
+	/* margin: 0; */
+}
+
+canvas#nikkei_chart {
+	width: 500px;
+	height: 300px;
+}
+
+table, th, td {
+  border:1px solid #333;
+	border-collapse: collapse;
+}
+
+table tr:nth-child(odd) td {
+	background: #eee;
+}
+
+table td:nth-child(7) {
+	/* color: #f00; */
+}
